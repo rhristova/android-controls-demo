@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DrawerExampleApplication</string>
+    <string name="menu_label">Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="menu_items">
+        <item>Home</item>
+        <item>Page1</item>
+        <item>Page2</item>
+        <item>About us</item>
+        <item>Contacts</item>
+    </string-array>
+
+</resources>
